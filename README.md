@@ -1,6 +1,6 @@
 ### Hello there! Welcome to me 🌱 
 
-Frontend Engineer who loves coding and needs coffee. I'm currently working at [ADDI](https://addi.com/), a technology company powering and enabling digital commerce across Latin America. Thanks for visiting and feel free to reach me!
+Frontend Engineer who loves coding and needs coffee. I'm currently working at [Navgar](https://navgar.app). Thanks for visiting and feel free to reach me!
 
 ## You can find me here
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/raphaelspimenta)
